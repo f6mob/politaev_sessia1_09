@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">slv1</string>
+    <string name="hint_password">password</string>
+    <string name="hint_Ivanov_i">Ivanov.I</string>
+    <string name="text_sign_in">sign in</string>
+    <string name="text_Forgot_password">Forgot password ?</string>
+    <string name="text_Create_a_new_account">Create a new account ?</string>
+</resources>
